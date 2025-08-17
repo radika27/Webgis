@@ -19,13 +19,6 @@ Dibuat dengan tujuan mempermudah siapa saja dalam **pemetaan, pengolahan data lo
 
 ---
 
-## 📸 Preview
-
-![Preview WebGIS](docs/screenshot.png)  
-*(Tambahkan screenshot hasil tampilan websitemu di folder `docs/` dengan nama `screenshot.png`)*
-
----
-
 ## 🚀 Cara Penggunaan
 
 1. **Buka Website**  
